@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DCypher.
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Software Development and Cyber Security.
 - 🌱 I’m currently learning how to be the best programmer I can be.
 - 💞️ I’m looking to collaborate on any fun new projects. 
 - 📫 You can reach me at davidczjobs@gmail.com
