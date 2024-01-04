@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David.
-- 🚩 I’m currently learning how to be the best programmer I can be.
+- 🚩 I’m an aspiring Software Engineer.
 - 🚀 I’m looking to collaborate on any fun new projects. 
 - 📫 You can reach me at dcypherdesigns@gmail.com
 
