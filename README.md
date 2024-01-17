@@ -1,5 +1,5 @@
-- 👋 Hi, I’m David.
-- 🚩 I’m an baby Software Engineer.
+- 👋 Hello world, I’m David.
+- 🚩 I’m a Software Engineer.
 - 🚀 I’m looking to collaborate on any fun new projects. 
 - 📫 You can reach me at dcypherdesigns@gmail.com
 
