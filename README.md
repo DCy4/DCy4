@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m David.
-- 🚩 I’m a Software Engineer.
+- 🚩 I’m a Software Engineer in the making.
 - 🚀 I’m looking to collaborate on any fun new projects. 
 
 
